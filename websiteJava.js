@@ -1,4 +1,4 @@
-
+let cnv, img, img1;
 
 function preload()
 {
@@ -19,11 +19,13 @@ function draw()
     fill(0);
 
     if (mouseIsPressed) 
-    {
-    image(img1, 0, 0, 400, 400);
-    } 
+        {
+            image(img1, 0, 0, 400, 400);
+            text("hewo c:", 170, 50, 100, 800);
+            textSize(25);
+        } 
     else 
-    {
-    image(img, 10, 10, 400, 400);
-    }
+        {
+            image(img, 10, 10, 400, 400);
+        }
 }
