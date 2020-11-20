@@ -168,10 +168,8 @@ body
     background-color: black;
 }
 
-/* footer
+canvas
 {
-    background-color: purple;
-    text-align: center;
-    padding: 20px;    
+    display: block;
+    margin: 0 auto;
 }
-*/
