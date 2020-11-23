@@ -51,7 +51,11 @@ header
     text-decoration: underline;
     font-size: 70px;
     color: floralwhite;
-    font-family: "Lucida Console", Courier, monospace;
+    
+    /* font-family: "Lucida Console", Courier, monospace; */
+    font-family: 'Permanent Marker', cursive;
+    /* delete the line above to bring back your Lucia Console font! */
+    
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
     background: rgba(100,100,100,0.7)
@@ -83,7 +87,11 @@ header
 {
     color: whitesmoke;
     text-align: center;
-    font-family: "Lucida Console", Courier, monospace;
+    
+     /* font-family: "Lucida Console", Courier, monospace; */
+    font-family: 'Permanent Marker', cursive;
+    /* delete the line above to bring back your Lucia Console font! */
+    
     font-size: 40px;
     font-style: italic;
     text-decoration: underline;
@@ -122,13 +130,20 @@ header
     margin-top: 400px;
     color: whitesmoke;
     font-style: italic;
-    font-family: "Lucida Console", Courier, monospace;
+    
+      /* font-family: "Lucida Console", Courier, monospace; */
+    font-family: 'Permanent Marker', cursive;
+    /* delete the line above to bring back your Lucia Console font! */
+
     
 }
 
 p
 {
-    font-family: "Lucida Console", Courier, monospace;
+     /* font-family: "Lucida Console", Courier, monospace; */
+    font-family: 'Permanent Marker', cursive;
+    /* delete the line above to bring back your Lucia Console font! */
+    
     font-size: 17px;
     color: whitesmoke;
 }
